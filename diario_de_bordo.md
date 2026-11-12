@@ -1,12 +1,19 @@
 # Diário de Bordo — Mini-projeto: Índice Invertido com Hashing
 
-**Professor:** Ricardo Rubens 
-**Aluno:** Davi Lima de Oliveira 
-**Disciplina:** Estrutura de Dados   
-**Curso:** Bacharelado em Sistemas de Informação  
+**Professor:** Ricardo Rubens
+
+**Aluno:** Davi Lima de Oliveira
+
+**Disciplina:** Estrutura de Dados
+
+**Curso:** Bacharelado em Sistemas de Informação
+
 **Instituição:** Instituto Federal de Alagoas (IFAL)
-**Tecnologia utilizada:** Python  
-**Período de desenvolvimento:** 10 a 12 de novembro de 2026  
+
+**Tecnologia utilizada:** Python
+
+**Período de desenvolvimento:** 10 a 12 de novembro de 2026
+
 **Recurso de apoio:** Inteligência Artificial (ChatGPT)
 
 ---
